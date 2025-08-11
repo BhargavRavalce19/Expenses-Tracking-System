@@ -28,7 +28,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/expense-tracking-system
+   git clone https://github.com/BhargavRavalce19/Expenses-Tracking-System
    cd project
    ```
 
